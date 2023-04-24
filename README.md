@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Desenvolvimento de uma API em Node utilizando o framework Nest. A API tem como objetivo a autenticação por meio de tokens JWT e para isso, utilizei diversos recursos disponíveis no Nest, como Guardião, criando decorators personalizados e outras funcionalidades. Além disso, utilizei bibliotecas tradicionais, como Bcrypt, Passport e Jwt, para garantir a segurança e confiabilidade da API.
+
 ## Installation
 
 ```bash
